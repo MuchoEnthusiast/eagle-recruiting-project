@@ -1,3 +1,10 @@
+# How to execute the project:
+
+```C
+g++ main.cpp fake\_receiver.c -o bin/program
+```
+
+
 # Project 2
 
 > ⚠️ This document is fairly technical to maintain brevity, if you have **any** questions ask your recruiter or come visit us at floor -2 of Povo 2.
