@@ -1,7 +1,12 @@
 # How to execute the project:
 
+1. First compile it
 ```C
-g++ main.cpp fake\_receiver.c -o bin/program
+g++ main.cpp fake_receiver.c -o bin/exec
+```
+2. Execute it
+```C
+./bin/exec
 ```
 
 
